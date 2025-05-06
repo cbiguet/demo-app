@@ -1,0 +1,14 @@
+{
+  "name": "zdemo_component",
+  "version": "1.0.0",
+  "description": "ZDEMO_COMPONENT",
+  "repositoryLayout": {
+    "formatVersion": 6,
+    "format": "json",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false",
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/22D73F0E66131FE08ADA7C55A5D948A7_0"
+  }
+}
