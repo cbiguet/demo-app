@@ -1,0 +1,50 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZCL_DEMO_CLASS================CCAU.abap",
+   "fingerprint":"WvJP/oaNPqWxf2s8BUeFBNbO/toCrXAV7N9nWyUHPdmaa001v3OT7M0s5XLUhd+ZqxD28xdl/tIFo8BIoeRI4A=="
+  },
+  {
+   "name":"CINC ZCL_DEMO_CLASS================CCDEF.abap",
+   "fingerprint":"Vd0QsdxHART6yIIEX5HybrXaqnPtrpYDyp4dL2i2ENwZgIpjHbjW+tXOPMr1doolAn4PV/sduahrUV03EFyw9w=="
+  },
+  {
+   "name":"CINC ZCL_DEMO_CLASS================CCIMP.abap",
+   "fingerprint":"ZupxDvcCDBVACibeC0ES9I1I3G0zAwN2+vZ7VZZeZDQCCxaQaQBfHbKLBNTtNpsDe4eocilTNMXugbDAtEvMBw=="
+  },
+  {
+   "name":"CINC ZCL_DEMO_CLASS================CCMAC.abap",
+   "fingerprint":"y9pCpLPgaygidoBL9+eUTiAvIFToJllr1ggblDM0ErLo2gf2wj/CB/HKv/mbF9bs2kzEve37EQN8iFAUd5YjZA=="
+  },
+  {
+   "name":"CLAS ZCL_DEMO_CLASS.asx.json",
+   "fingerprint":"FuJpb4Jc6SnUgUUhmFnnUyX0QiPQw+beiNJ4dnLFjvtVnF/L7we52GayMTBwOmPbk8Nf4IDubLGEEN4plrb8bA=="
+  },
+  {
+   "name":"CLSD ZCL_DEMO_CLASS.abap",
+   "fingerprint":"1QR9ydZ7+uhC7pJx5/qbwJXapKt6poIuXub/qvGxz0oJwtV2+B3aVg4kJpZLk3wb+9CTNr9kTT+o0W1OHe9Qhw=="
+  },
+  {
+   "name":"CPRI ZCL_DEMO_CLASS.abap",
+   "fingerprint":"+XVga5zcJo4AErhiC3a82i0kfmejlTLGlRq9TLzRAsO7kd7lcbGG8mrmE4nRgy/TDzh/GmNhVlqU9ypWR7V+jA=="
+  },
+  {
+   "name":"CPRO ZCL_DEMO_CLASS.abap",
+   "fingerprint":"3/0KWZmpLP9KvfFs+ZbvMFa4Z+K3l4/NxsGHFg2WpZEKY9w6+mZ4cC40Qf4WkS/aj1GT5DJRsuKqlofhwmcs2w=="
+  },
+  {
+   "name":"CPUB ZCL_DEMO_CLASS.abap",
+   "fingerprint":"MSmZdTAjiHZNURfV44Qi498C5siHB0guHWTQ9il50MinYtG44bITZEZX8wbGJT4Y34ld4FYZ/5GfRmp0m5HcgA=="
+  },
+  {
+   "name":"METH IF_OO_ADT_CLASSRUN~MAIN.abap",
+   "fingerprint":"cBNJkGcc2Dsv62elgPkv/efpREOHIaOAZIRgkHnAGidy0gcQxJCOPFkMhLOD7tq9x8r7qSC4GEH3ST/U4gtXlA=="
+  },
+  {
+   "name":"REPS ZCL_DEMO_CLASS================CT.abap",
+   "fingerprint":"rfssLHv/wlOFIjb1yG7X+lanwlXs98UV5dc+gA4HyaKNKbtloKEKwC+EI+JsLEbLB4VJ1bHsvjLg1sa0Vq7Amw=="
+  }
+ ],
+ "fingerprintAll":"GryF8GTOZ6J8ixEbftlV7ur3RV0++xtPYdXYKPLRQMhEZZeV7CsLRW8e8YDuLc4vFyXP4zfuimcMg7VHEqMqsw=="
+}
